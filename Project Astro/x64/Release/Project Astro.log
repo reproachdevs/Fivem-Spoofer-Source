@@ -1,0 +1,11 @@
+﻿  Project Astro.cpp
+  Code wird generiert.
+  53 of 482 functions (11.0%) were compiled, the rest were copied from previous compilation.
+    40 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Codegenerierung ist abgeschlossen.
+library_x64.lib(auth.obj) : warning LNK4099: PDB "" wurde nicht mit "library_x64.lib(auth.obj)" oder an "" gefunden; Objekt wird verknüpft, als ob keine Debuginformationen vorhanden wären.
+library_x64.lib(utils.obj) : warning LNK4099: PDB "" wurde nicht mit "library_x64.lib(utils.obj)" oder an "" gefunden; Objekt wird verknüpft, als ob keine Debuginformationen vorhanden wären.
+library_x64.lib(hmac_sha256.obj) : warning LNK4099: PDB "" wurde nicht mit "library_x64.lib(hmac_sha256.obj)" oder an "" gefunden; Objekt wird verknüpft, als ob keine Debuginformationen vorhanden wären.
+library_x64.lib(sha256.obj) : warning LNK4099: PDB "" wurde nicht mit "library_x64.lib(sha256.obj)" oder an "" gefunden; Objekt wird verknüpft, als ob keine Debuginformationen vorhanden wären.
+  Project Astro.vcxproj -> C:\Users\Maurice\Desktop\src_for_my\Fivem Astro woofer src\x64\Release\Project Astro.exe
