@@ -9,9 +9,9 @@
 using namespace KeyAuth;
 using namespace std;
 
-std::string name = "Medusa spoofer"; // application name. right above the blurred text aka the secret on the licenses tab among other tabs
-std::string ownerid = "lekx5IG1i9"; // ownerid, found in account settings. click your profile picture on top right of dashboard and then account settings.
-std::string secret = "a7bc643092d31f69217186b90c211ecde733a3e7abd7a766deaca66906f19394"; // app secret, the blurred text on licenses tab and other tabs
+std::string name = "asd"; // application name. right above the blurred text aka the secret on the licenses tab among other tabs
+std::string ownerid = "asd"; // ownerid, found in account settings. click your profile picture on top right of dashboard and then account settings.
+std::string secret = "asd"; // app secret, the blurred text on licenses tab and other tabs
 std::string version = "1.0"; // leave alone unless you've changed version on website
 std::string url = "https://keyauth.win/api/1.2/"; // change if you're self-hosting
 std::string tm_to_readable_time(tm ctx);
